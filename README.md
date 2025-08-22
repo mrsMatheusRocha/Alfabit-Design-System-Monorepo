@@ -3,8 +3,6 @@
 Bem-vindo ao **Alfabit Design System Monorepo**!  
 Este projeto reúne os componentes, estilos e utilitários que garantem a consistência visual e de experiência dos produtos Alfabit. Nosso objetivo é facilitar o desenvolvimento de interfaces acessíveis, escaláveis e modernas.
 
-![Alfabit Design System Banner](https://alfabit.com.br/assets/design-system-banner.png)
-
 ---
 
 ## Índice
@@ -13,8 +11,6 @@ Este projeto reúne os componentes, estilos e utilitários que garantem a consis
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ---
 
@@ -43,6 +39,7 @@ Este monorepo organiza todos os pacotes relacionados ao design system, como:
 - **JavaScript** – Scripts utilitários
 - **Dockerfile** – Containerização para ambientes de desenvolvimento
 - **HTML** – Exemplos e documentação
+- **StoryBook** – Documentação interativa e testes de alta fidelidade
 
 ---
 
